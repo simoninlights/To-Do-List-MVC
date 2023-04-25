@@ -1,2 +1,0 @@
-todos is the array in Model class for display all the clips in the VIew class
-
